@@ -30,4 +30,4 @@ FREE TOOLS
 
 
  ___This Tools is Free___</br>
- [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+01907048765)
+ [![Whatsapp](https://img.shields.io/badge/Whatsapp-CYBER-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+01907048765)
