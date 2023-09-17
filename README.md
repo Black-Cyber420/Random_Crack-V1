@@ -2,7 +2,7 @@
 
 # CYBER-PRO
 FREE TOOLS
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Cyber420-dimgray?style=flat-square&logo=github)](https://github.com/Black-Cyber420)<br> [![Facebook](https://img.shields.io/badge/Facebook-Rabby Ahmed-blue?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=100080174119723)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+01907048765)
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Cyber420-dimgray?style=flat-square&logo=github)](https://github.com/Black-Cyber420)<br> [![Facebook](https://img.shields.io/badge/Facebook-Rabby Ahmed-blue?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=100080174119723)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-CYBER-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+01907048765)
 
 
 
