@@ -22,7 +22,7 @@ FREE TOOLS
 - `pkg install python`
 - `pip install requests`
 - `pip install mechanize`
-- `rm -rf AKING-PRO`
+- `rm -rf Random_Crack-V1`
 - `git clone https://github.com/Black-Cyber420/Random_Crack-V1`
 - `cd Random_Crack-V1`
 - `python Cyber_Cloning.py`
